@@ -5,5 +5,5 @@
 ![](aac.png?raw=true "AAC")
 
 # Introdução 
-Para a realização deste projeto decidimos planear a montagem de um cofre com Arduíno.
+A realização deste projeto consistiu na montagem de um cofre com Arduíno.
 Um cofre é um compartimento cuja finalidade é garantir que determinado bem, geralmente de valor, é seguramente guardado.
